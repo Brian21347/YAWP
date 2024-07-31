@@ -182,6 +182,66 @@ After discovery of the new world
   - Spanish presumed the NAs didn't have humanity & used brutal methods to extract wealth from the West Indies
   - The NA pop was nearly wiped out in a gen; 1+ mil people gone because of diseases & warfare
 
+#### Spanish Exploration and Conquest
+
+Motives: land, gold, titles
+
+- More and more people started to join in the conquest of the new world
+- Used _encomienda_: each person who settled in the new world land and a number of natives
+- Bartolomé de Las Casas: published report on the brutality of Spanish conquest
+  - Switched to using the _repartimiento_: milder, but perpetuated the exploitation of the Native pop
+- Hernán Cortés: Conquistador
+
+Maya civ
+
+- Massive temples, large pops, written language, math, good calendars
+- Fell before the discovery of the new world; droughts and unsustainable agricultural practices
+
+Aztecs
+
+- Militaristic migrants from northern Mexico; conquered to dominance
+- Created largest civ in the New World
+- Tenochitlán: capital city, lots of people, built on _chinampas_ (artificial islands)
+- Used decentralized net of peoples that paid tribute
+  - Corn, beans; jade, cacao, gold; provided troops
+
+- Hernán Cortés: Conquistador, invaded Mexico; relied on Native translator Doña Marina
+- The Aztecs had a very fragile control over their empire --> many people groups betrayed them
+- Cortés peacefully entered Tenochitlán and captured the emperor
+  - Used the emperor to control the Aztec's resources (bullion, trade net)
+- Aztecs revolted: Montezuma (emperor) was called a traitor --> killed w/ many of Cortés' men
+- Cortés sieged Tenochitlán: cut of water, disease spread like wild fire
+  - The million strong empire fell bc of disease, dissension, & a thousand conquistadors
+
+Incas (Quechuas)
+
+- Large mountain empire in the Andes
+  - Cut terraces into the mountains to farm
+- Open to attack bc the conquered peoples wanted to be free
+- Small pox spread before the conquistadors, killed members of the royal family (including the emperor Huayna Capac)
+- Francisco Pizarro: took the capital of the Incan empire
+- New admin struct: royal appointees controlled large swaths of land; controlled the extraction of gold and silver & their transport across the Atlantic w/ Spanish galleons
+
+Admin
+
+- Migrants flooded into the New World; (3/4 million during Spanish control)
+  - Migrants were mostly young, single men --> married there, incorporating NAs into colonial life
+- Tolerated/supported interracial marrage; Mestizos made up most of colonial population
+- Sistema de Castas (Casta system): organized racial groups based on "purity of blood"
+  - prereqs for social and political advancement
+    - Peninsulares: Spaniards born in Spain
+    - Criollos: Spaniards born in the New World
+    - Mestizo: of Spanish and Indian heritage
+      - Middling social class; could advance if they hand money or married Spaniards
+    - Some who could pass as being more Spanish would try using this to game the system
+- Culture was a hybrid between Spaniards and Indians; much more of a mix than in the British colonies
+  - e.g. Juan Diego reported seeing the Virgin Mary --> the Virgen de Guadalupe become a national icon for mestizo society
+- Started expanding north, searching for gold and another Tenochitlán
+  - Juan Ponce de León, conqueror or Puerto Rico, landed in Florida in search for wealth
+  - Álvar Núñez Cabeza de Vaca joined in the expedition to Florida; shipwrecked, made an odyssey to Mexico
+  - Pedro Menéndez de Avilés founded St. Augustine, Florida, in 1565
+- North America didn't offer that much wealth to the Spanish, but expeditions continued; the Spanish had wide scale control over much of America
+
 ### 2. [Colliding Cultures](https://www.americanyawp.com/text/02-colliding-cultures)
 
 ### 3. [British North America](https://www.americanyawp.com/text/03-british-north-america)
