@@ -244,6 +244,191 @@ Admin
 
 ### 2. [Colliding Cultures](https://www.americanyawp.com/text/02-colliding-cultures)
 
+#### Intro
+
+- Spain ended it's dominance near the end fo the seventeenth century as more competitors arose
+
+#### Spanish America
+
+- The crown subsidized exploration
+- Early explorers sought a Northwest Passage that allowed travel directly to Asia
+- The Spanish expanded into North America
+  - Juan Ponce de León: The conquistador that first arrived in Florida
+    - Native tribes decimated by war, raids, & disease
+    - Lead missions from Mexico to New Mexico
+      - Sacked Pueblo city of Acoma (sky city); slaughtered ~1/2 of all inhabitants, cut one foot off every male over 15 years old, enslaved rest
+  - In the first half of the sixteenth century, the Spanish often fought against other colonizers & the Native peoples
+    - Expelled French Protestants (Huguenots) in 1560s
+    - English burned St. Augustine in 1586
+  - By 1600s, the Spanish controlled around 1000 sq mi in Florida
+    - Tried replicating systems that worked earlier: _encomienda_ & missions
+  - 1630s: Mission sys extended to the Apalachee section of Florida; held Florida tenuously
+    - The Apalachee were some of the most powerful tribes in Florida
+      - Used the Camino Real (The royal road), connecting the western part of the mission sys w/ St. Augustine
+      - Grew lots of corn & other stuff
+    - Spanish drove cattle east across St. Johns River & est. ranches close to the Apalachee
+  - Santa Fe: first Euro settlement in the SW (est. 1610)
+    - only few went (dry and hostile env) --> never commanded the region
+      - By 1680: ~3k colonists
+    - Traded w/ & exploited Puebloan peoples (pop dropped from 60k to 17k)
+  - Spain then focused on using missions to expand (most in Franciscan order); 17th cen, firars est. many missions along the Rio Grande & in CA
+
+#### Spain's Rivals
+
+- England and France (the two powers which could compete w/ Spain) were thrown into turmoil w/ long conflicts and the reformation
+  - Millions died from religious violence in France
+- Reports of Spanish atrocities spread throughout Euro and provided justification for other conquests
+  - Black legend: the Spanish accused critics of painting their legacy black
+    - The Spanish had sig influence in many Euro nations due to conquest --> in bad terms w/ many other nations
+- Dominated the New World
+  - Much more wealth came from exploiting the Aztec & Incas
+  - Eventually upset when the the Spanish Armada was destroyed & the English started to rule the waves
+
+The French
+
+- Subsidized exploration in early 16th cen
+- Sought the Northwest Passage: waterway connecting North America with Asia
+  - St. Lawrence River in Canada seemed like it
+- French control centered on the Great Lakes
+- Colonization dev through investment from private trading companies
+  - Aimed to capture the fur trading market rather than take control of new territory
+- Few Frenchmen traveled to settle & few to settle permanently in the New World
+  - Many French Protestants (Huguenots) tried emigrating after France criminalized Protestantism (1685), but all non-Catholics were forbidden from emigrating
+- French colonization fostered more cooperative & mutually beneficial relationships w/ Native Americans than was typical for the Spanish & English
+- Jesuit missionaries moved in w/ the Native Americans to convert them (Franciscans usually brought NAs to camps)
+- Métis(sage): Children w/ French father and Indian mother
+- Huron peoples deved a close relationship w/ the French --> many converted to Christianity & many died due to Euro diseases and frequent combat w/ the Dutch
+- Pressure from the Iroquois in the East pushed Algonquian-speaking peoples toward French territory (mid 17th) --> syncretism between the NAs and French
+  - Frenchmen learned the gift giving & meditation customs of NA leaders
+  - NAs learned to follow euro laws & euro markets
+- The Great Lakes ("middle ground") had tumultuous success between the late 17th and early 18th (until American settlers swarmed the region)
+
+The Dutch
+
+- Netherlands (small maritime nation, very wealthy) achieved colonial success
+- 1581: broke away from the Hapsburgs (got reputation of the freest nation in Euro)
+  - Dutch women had separate legal ids from their husbands & could hold property & inherit full estates
+- Embraced greater religious tolerance & freedom of the press than other Euro nations
+  - Radical Protestants, Catholics, Jews were welcomed
+  - The Pilgrims first fled to the Dutch before sailing to the New World
+- Built empire through the work of merchants & sailors
+- Most adv capitalists in the modern world; marshaled lots of resources by creating innovative finacial orgs (e.g. Amsterdam Stock Exchange & East India Company)
+- The Dutch offered little democracy: power stayed in the hands of a few
+- Dutch liberties had limits: The Dutch adv the slave trade (brought slaves w/ them to the New World), slavery was an essential part of Dutch capitalism
+- The Dutch commissioned Henry Hudson (Englishman) to discover the NW passage; foudn the Hudson & claimed New York for the Ducth
+  - Est. New Netherland there; quentassential part of the Dutch new world empire
+  - Chartered the Dutch West India Company in 1621: est colonies in Africa, Caribbean, North America
+  - Manhatten became an important launching pad to support Caribbean colonies & attack the Spanish
+- Created guidelines for the New Netherland whcih conformed to the ideas of Hugo Frotius (legal philosopher who believed NAs had the same natural rights as europeans)
+  - 1626: Peter Minuit "bought" Manhattan from Munsee Indians
+    - The Dutch paid the wrong Indians --> Dutch were trying to be peaceful but they didn't think about land the way the Indians did
+- Sought profit, not conquering
+  - Traded wampum (ceremonial & diplomatic commodity among the Iroquois & made by the Algonquian Indians) for beaver pelts
+    - Wampum became a currency
+- Est farms, settlements, lumber camps
+- Patroon sys (implemented by the West India Company): granted large estates to wealthy landlords who then paid for passage of tenants to work on their lands
+  - Expanding Dutch settlements --> deteriorating relations w/ local Indians
+    - Armed conflicts began when settlements encroached on Native villages & hunting grounds
+  - The Dutch allied w/ the Iroquois to maintain Beverwijck (Albany) for a hub of fur trade
+- Labor shortages crippled colonization (patroon sys failed to brign enough people): the colony couldn't get enough workers to satisfy the backers of the colony --> the colony imported slaves in 1626
+  - Would make New Amsterdam (NYC) w/ a defensive wall, maintain roads & the port
+- The Dutch feared racial mixing --> brought African women --> allowed formation of African Dutch families
+  - First African marriage in 1641 & 500+ by 1650
+- Dutch slavery was not as exploitative than in later systems: some slaves sued for back wages
+  - Some slaves won back a half freedom: could work the land but needed to pay a large tax
+- Some objected, but the economic goals outweighed all else
+
+The Portuguese
+
+- Lead in Atlantic nav well before Columbus's voyage
+- Restarted Portuguese-Spanish rivalry after seeing the wealth pouring in from New Spain
+  - Created a crisis in the Catholic world when they vied fro power; pope intervened & divided the New World w/ the Treaty of Tordesillas (1494; land east of the Tordesillas Meridian would be given to Portugal & all other land would be given to Spain)
+- Portuguese turned their attention to the area which would be Brazil in 1530
+  - Kicked French traders out & est permanent settlements
+  - Built gold & silver mines; but mostly focused on the sugar & slave trade
+- Jesuit missionaries brought Christianity to Brazil & strong elements of African & NA spirituality mixed w/ Catholicism
+  - Resulted from the demographics of Brazilian slavery (high mortality rates lead to a steady influx of slaves, perpetuating a cultural connection between Brazil & Africa)
+- The reliance on slave imports increase the chance of resistance
+  - Quilombos: new, free setlments created by ecaped slaves
+    - Included African & Native slaves
+    - Endured through frequent attacks; several survived throughout the history of Brazilian Slavery
+
+#### English Colonization
+
+- The Protestant Reformation shook England
+- When Elizabeth I assumed the English crown in 1558, she oversaw England's "golden age"
+  - Expanision of trade & exploration, lit achievements of Shakespeare & Marlowe, English mercantilism, state-assisted manufacturing & trading sys
+  - The markets provide lots of consumers & laborers --> stimulated economic expansion & increased English wealth
+- Social & econ changes unsettled the English pop
+  - Pop ~doubled from 3 mil in 1500 to 5 mil in ~1650
+  - Land cost skyrocketted, farming income plummetted, rents & prices rose, wages stagnated
+  - Movements to enclose public land (started by landholders changing from agriculture to livestock) evicted tenants & created tons of landless, jobless peasants
+    - 1/4 to 1/2 of the pop was in extreme poverty
+- New world colonization garnered support in England in a time when the weaalthy were become much richer, there was a tense Spanish rivalry, & an increase in social unrest
+  - Justified by econ gains & **doing God's work**
+  - Advocates (e.g. Richard Hakluyt & John Dee) used _The History of the Kings of Britains_ (written by 12th cen monk Geoffrey of Monmouth) w/ its mythical account of King Arthurs' conquest & the Christianization of pagen lands
+  - Also would glorify God & the queen (who seemed nearly divine, "the Virgin Queen")
+- Coarse econ motives: Merchants wanted wealth --> participate in Government sponsored monompolies using joint-stock companies
+  - Joint-stock companies: ancestors of corporations, instruments of colonization
+- James I approved the formation of the Virginia Company (named after the Virgin Queen)
+- First forms of English ventures into the New World were through Prirates (AKA sea dogges)
+  - E.g. John Hawkins & Francis Drake
+    - Drake was so successful Elizabeth rewarded him w/ knighthood (1580)
+  - Plundered Spanish ships & towns
+  - Pirates earned a lot for themselves & the crown
+- Protestant-Catholic tensions were high
+  - The execution of Mary Queen of Scots (a catholic) worsed it
+  - In 1588, King Philip II of Spain unleashed the Armada to destroy the British navy & depose Elizabeth
+    - The smaller, swifter English ships harassed the armada & forced it to retreat to the Netherlands for reinforcements. Freak storm destroyed the armada; Saving England & securing English Protestantism
+- Colonization started haltingly
+  - Sir Humpherey Gilbert created a colony in Newfoundland in the late 16th cen but faild
+  - In 1587, John White tried settling Roanoke & failed
+- King James made peace w/ Spain in 1604 --> piracy no longer was a good option for wealth --> needed to quickly found a colony
+
+### Jamestown
+
+- The Virginia Company (est 1606) hoped to find wealth & planned to find a navigable river w/ a deep arbor away from the Spanish
+- 1607: Englishmen settled in Virginia in such a place but it was disastrous
+  - Terrible soil & bad water there, but they still built James town
+- John Smith took over the colony & navigated Indian diplomacy (Created the Pocahontas story)
+  - The Powhatan Confederacy (the people there) initally welcomed them & traded for their metal ax-heads, kettles, tools, & guns
+- The English continued to die: there was a "starving time" in the winter of 1609-1610
+  - Supplies were lost at sea, relations w/ the indias deteriorated & the colonists fought a slow-burning guerilla war w/ the Powhatan
+- Little improved the following years (by 1616, 80 percent of all settlers had died), it was a catastrophe
+- The colony was reorganized & the marrage of Pocahontas to John Rolfe (1614) eased tensions 
+  - The colony was still limping along
+- Tobacco saved Jamestown: the "noxious weed" became fetched high prices in Europe & the tobacco boom began (started in Virginia & later stread to Maryland)
+  - Tobacco incentivized further colonization & laid the groundwork for the US
+    - Mostly young, male, indentured servants came to Virginia
+  - Created the headright policy in 1618 seeing the limiting factor was the number of settlers (granted 50 acres of land to anyone who migrated to the New World)
+- Opechancanough replaced his brother, Powhatan, after he died in 1622
+  - O promised to drive the colonists away after they started expanding into their land& launched a surpise attack in March
+  - Colonists leveraged the attack to kick the Powhatan off their land
+- The English felt they were physically, spiritually, & technologically superior to NAs, justifying their conquest
+- In the early years of American slavery, race was not yet fixed & slavery not yet codified
+  - Early slaves counted as indentured servents (but w/ longer terms & harsher punishments)
+
+### New England
+
+- The New England colonies had loftier goals
+  - Migrants expected to profit but they also had religious motives
+  - Everyone who moved to New England in the 17th cen was a Puritan, shapping the regions history & governance
+- "Puritan" began as an insult; Puritans usually refer to each other as "the godly" if they used any specific term
+  - They believed the English church didn't seperate itself enough from Catholicism & largely agree w/ Calvinists (followers of Jean Calvin)
+  - The believed humankind was redeemed by God's Grace alone & an individual's importal soul was predestined; those who were selected are the Elect
+  - They argued that ornate ceremony, decoration of churches, & corrupt priesthood obscured God's message & reading the Bible is the best way of understanding God
+- Puritans were stereotyped as killjoys: they destain excesss & oppose many popular holidays; it's exaggerated, however, since they don't abstain from common things (e.g. alcohol)
+- Puritans sought to reform the Church of England (e.g. simpler worship service, abolition of ornate churches) but started the Great Migration (thosans of Puritans traveled to New England from 1630-1640) with the coronation of King Charles I (r. 1625-1649)
+- Differed from the Pilgrims (who separated from the Church of England), the Puritans sought to reform the Church but need to move to New England tempararily
+- New England colonists usually arrived in family groups, create towns w/ independent landholders
+- New England had a broadly shared prosparity characterized with a mixed economy dependent on small farms, shops, fishing, trade with the Old World, etc
+  - The land did not support large-scale plantation farming --> slaver never took hold
+    - Puritans may not have opposed the system since some Puritans found riches in the Slave trade and in the Caribbean sugar plantations
+- The Puritans meet weak Indian tribes --> they had political stability --> The population grew rabidly (from 21k to 91k by 1700)
+- Built godly communities: organized land for current & furture use; inhabitants decided on the size of settler's home lot based on wealth & status; allowed male property holders to vote in town meetings, selecting gov officials; wrote town covenants; wayward/divergent individuals were persuaded/corrected/coerced, if it didn't work, they were punished/removed (e.g.they banished the Quakers)
+- Puritans didn't create a Godly utopia --> older generations started blaming the younger ones (Jeremiads became a staple in late 17th cen)
+- Society grew more diverse & Puritans struggled against pluralism
+
 ### 3. [British North America](https://www.americanyawp.com/text/03-british-north-america)
 
 ### 4. [Colonial Society](https://www.americanyawp.com/text/04-colonial-society)
